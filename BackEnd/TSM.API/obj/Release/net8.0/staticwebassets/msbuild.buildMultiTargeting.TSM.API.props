@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\TSM.API.props" />
-</Project>

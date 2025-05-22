@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7Ua1U4TRUbrds6Syck4RYUc0NqGGiunAm3etvALrEVk=",
+  "Source": "TSM.API",
+  "BasePath": "_content/TSM.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

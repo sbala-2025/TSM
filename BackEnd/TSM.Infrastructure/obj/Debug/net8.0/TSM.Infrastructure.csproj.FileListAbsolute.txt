@@ -1,0 +1,15 @@
+D:\AI Projects\TSM\BackEnd\TSM.Infrastructure\bin\Debug\net8.0\TSM.Infrastructure.deps.json
+D:\AI Projects\TSM\BackEnd\TSM.Infrastructure\bin\Debug\net8.0\TSM.Infrastructure.dll
+D:\AI Projects\TSM\BackEnd\TSM.Infrastructure\bin\Debug\net8.0\TSM.Infrastructure.pdb
+D:\AI Projects\TSM\BackEnd\TSM.Infrastructure\bin\Debug\net8.0\TSM.Core.dll
+D:\AI Projects\TSM\BackEnd\TSM.Infrastructure\bin\Debug\net8.0\TSM.Core.pdb
+D:\AI Projects\TSM\BackEnd\TSM.Infrastructure\obj\Debug\net8.0\TSM.Infrastructure.csproj.AssemblyReference.cache
+D:\AI Projects\TSM\BackEnd\TSM.Infrastructure\obj\Debug\net8.0\TSM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\AI Projects\TSM\BackEnd\TSM.Infrastructure\obj\Debug\net8.0\TSM.Infrastructure.AssemblyInfoInputs.cache
+D:\AI Projects\TSM\BackEnd\TSM.Infrastructure\obj\Debug\net8.0\TSM.Infrastructure.AssemblyInfo.cs
+D:\AI Projects\TSM\BackEnd\TSM.Infrastructure\obj\Debug\net8.0\TSM.Infrastructure.csproj.CoreCompileInputs.cache
+D:\AI Projects\TSM\BackEnd\TSM.Infrastructure\obj\Debug\net8.0\TSM.Infr.913931E9.Up2Date
+D:\AI Projects\TSM\BackEnd\TSM.Infrastructure\obj\Debug\net8.0\TSM.Infrastructure.dll
+D:\AI Projects\TSM\BackEnd\TSM.Infrastructure\obj\Debug\net8.0\refint\TSM.Infrastructure.dll
+D:\AI Projects\TSM\BackEnd\TSM.Infrastructure\obj\Debug\net8.0\TSM.Infrastructure.pdb
+D:\AI Projects\TSM\BackEnd\TSM.Infrastructure\obj\Debug\net8.0\ref\TSM.Infrastructure.dll

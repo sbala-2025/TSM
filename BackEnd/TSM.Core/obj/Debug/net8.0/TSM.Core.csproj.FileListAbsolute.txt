@@ -1,0 +1,12 @@
+D:\AI Projects\TSM\backend\TSM.Core\bin\Debug\net8.0\TSM.Core.deps.json
+D:\AI Projects\TSM\BackEnd\TSM.Core\bin\Debug\net8.0\TSM.Core.dll
+D:\AI Projects\TSM\BackEnd\TSM.Core\bin\Debug\net8.0\TSM.Core.pdb
+D:\AI Projects\TSM\BackEnd\TSM.Core\obj\Debug\net8.0\TSM.Core.csproj.AssemblyReference.cache
+D:\AI Projects\TSM\BackEnd\TSM.Core\obj\Debug\net8.0\TSM.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\AI Projects\TSM\BackEnd\TSM.Core\obj\Debug\net8.0\TSM.Core.AssemblyInfoInputs.cache
+D:\AI Projects\TSM\BackEnd\TSM.Core\obj\Debug\net8.0\TSM.Core.AssemblyInfo.cs
+D:\AI Projects\TSM\BackEnd\TSM.Core\obj\Debug\net8.0\TSM.Core.csproj.CoreCompileInputs.cache
+D:\AI Projects\TSM\BackEnd\TSM.Core\obj\Debug\net8.0\TSM.Core.dll
+D:\AI Projects\TSM\BackEnd\TSM.Core\obj\Debug\net8.0\refint\TSM.Core.dll
+D:\AI Projects\TSM\BackEnd\TSM.Core\obj\Debug\net8.0\TSM.Core.pdb
+D:\AI Projects\TSM\backend\TSM.Core\obj\Debug\net8.0\ref\TSM.Core.dll

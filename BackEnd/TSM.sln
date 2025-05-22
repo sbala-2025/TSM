@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSM.API", "TSM.API\TSM.API.csproj", "{4CE7DE0B-E4AF-4197-BCD5-505B384F7F48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSM.Core", "TSM.Core\TSM.Core.csproj", "{B12DD3D7-604D-44DF-8A0E-27F13996F481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSM.Infrastructure", "TSM.Infrastructure\TSM.Infrastructure.csproj", "{80224473-595E-44C2-BEEA-EC300111B7D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CE7DE0B-E4AF-4197-BCD5-505B384F7F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE7DE0B-E4AF-4197-BCD5-505B384F7F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE7DE0B-E4AF-4197-BCD5-505B384F7F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE7DE0B-E4AF-4197-BCD5-505B384F7F48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B12DD3D7-604D-44DF-8A0E-27F13996F481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B12DD3D7-604D-44DF-8A0E-27F13996F481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B12DD3D7-604D-44DF-8A0E-27F13996F481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B12DD3D7-604D-44DF-8A0E-27F13996F481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80224473-595E-44C2-BEEA-EC300111B7D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80224473-595E-44C2-BEEA-EC300111B7D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80224473-595E-44C2-BEEA-EC300111B7D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80224473-595E-44C2-BEEA-EC300111B7D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
